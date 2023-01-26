@@ -38,19 +38,19 @@ Use the imageScale property if the pin image is too large.
 
 UnminedCustomMarkers = {
 
-    isEnabled: false,
+    isEnabled: true,
 
     markers: [
 
         // Example 1: Simple marker
         {
-            x: -200,
-            z: -200,
+            x: 797,
+            z: -2243,
             image: "custom.pin.png",
             imageAnchor: [0.5, 1],
             imageScale: 0.5,
         },
-
+/*
         // Example 2: Marker with text
         {
             x: 0,
@@ -75,7 +75,7 @@ UnminedCustomMarkers = {
             offsetY: 0, 
             font: "bold 50px Calibri,sans serif",
         },
-
+*/
         // add your markers here
 
 
