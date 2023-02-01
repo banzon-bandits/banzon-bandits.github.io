@@ -4,10 +4,10 @@ var UnminedMapProperties = {
     maxZoom: 4,
     defaultZoom: 0,
     imageFormat: "jpeg",
-    minRegionX: -6,
+    minRegionX: -7,
     minRegionZ: -7,
     maxRegionX: 3,
-    maxRegionZ: 2,
+    maxRegionZ: 3,
     worldName: "banzon",
     background: "",
     markers: new Array()
