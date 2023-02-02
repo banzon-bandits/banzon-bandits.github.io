@@ -6,8 +6,8 @@ var UnminedMapProperties = {
     imageFormat: "jpeg",
     minRegionX: -7,
     minRegionZ: -7,
-    maxRegionX: 15,
-    maxRegionZ: 12,
+    maxRegionX: 28,
+    maxRegionZ: 26,
     worldName: "banzon",
     background: "",
     markers: new Array()
