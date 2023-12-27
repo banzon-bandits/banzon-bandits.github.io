@@ -5,9 +5,9 @@ var UnminedMapProperties = {
     defaultZoom: 0,
     imageFormat: "jpeg",
     minRegionX: -13,
-    minRegionZ: -7,
-    maxRegionX: 15,
-    maxRegionZ: 26,
+    minRegionZ: -4,
+    maxRegionX: 10,
+    maxRegionZ: 8,
     worldName: "Here and There SMP",
     background: "",
     markers: new Array()
